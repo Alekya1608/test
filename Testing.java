@@ -1,6 +1,3 @@
 public class Testing {
-
-
-
-    // Add code
+// Add code
 }
